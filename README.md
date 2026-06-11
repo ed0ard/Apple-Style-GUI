@@ -16,4 +16,4 @@ All UI text is in `src/i18n/`:
 
 ### Keep placeholders intact
 
-Some strings contain a placeholder like `{n}` (e.g. `"{n} missing"`). Keep the `{n}` in your translation; only move/translate the words around it.
+Some strings contain a placeholder like `{n}` (e.g. `"{n} missing"`). Keep the `{n}` in your translation; only move or translate the words around it.
